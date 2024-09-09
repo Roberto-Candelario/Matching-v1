@@ -14,6 +14,7 @@
 		67CAF8F02C8F78CD00225B7D /* Matching_v1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CAF8EF2C8F78CD00225B7D /* Matching_v1Tests.swift */; };
 		67CAF8FA2C8F78CD00225B7D /* Matching_v1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CAF8F92C8F78CD00225B7D /* Matching_v1UITests.swift */; };
 		67CAF8FC2C8F78CD00225B7D /* Matching_v1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CAF8FB2C8F78CD00225B7D /* Matching_v1UITestsLaunchTests.swift */; };
+		67CAF9092C8F78DA00225B7D /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67CAF9082C8F78DA00225B7D /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		67CAF8F52C8F78CD00225B7D /* Matching v1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Matching v1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		67CAF8F92C8F78CD00225B7D /* Matching_v1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Matching_v1UITests.swift; sourceTree = "<group>"; };
 		67CAF8FB2C8F78CD00225B7D /* Matching_v1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Matching_v1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		67CAF9082C8F78DA00225B7D /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				67CAF8DE2C8F78CB00225B7D /* Matching_v1App.swift */,
 				67CAF8E02C8F78CB00225B7D /* ContentView.swift */,
+				67CAF9082C8F78DA00225B7D /* CardView.swift */,
 				67CAF8E22C8F78CC00225B7D /* Assets.xcassets */,
 				67CAF8E42C8F78CC00225B7D /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67CAF8E12C8F78CB00225B7D /* ContentView.swift in Sources */,
+				67CAF9092C8F78DA00225B7D /* CardView.swift in Sources */,
 				67CAF8DF2C8F78CB00225B7D /* Matching_v1App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
